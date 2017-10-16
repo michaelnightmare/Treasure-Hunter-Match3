@@ -1,0 +1,5 @@
+﻿  Engine.cpp
+c:\users\michael nightmare\desktop\treasure hunter\engine\engine.cpp(269): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\treasure hunter\engine\engine.cpp(270): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Engine.vcxproj -> C:\Users\Michael Nightmare\Desktop\Treasure hunter\Engine\x64\Debug\Engine.exe
+  Engine.vcxproj -> C:\Users\Michael Nightmare\Desktop\Treasure hunter\Engine\x64\Debug\Engine.pdb (Partial PDB)
